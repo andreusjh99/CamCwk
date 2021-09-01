@@ -1,5 +1,6 @@
-# specific files
+# other files
 cwk.txt
+*.xyz
 
 # editor files
 .vscode/

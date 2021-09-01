@@ -10,10 +10,10 @@ https://cued-partia-flood-warning.readthedocs.io/.
 - python 3.6
 - install packages
 	
-	    pip install dateutils pytest requests
+	    $ pip install dateutils pytest requests
           
-	    pip install haversine
+	    $ pip install haversine
 
 ### Run tests:
-	python -m pytest -v .
+	$ python -m pytest -v .
 
