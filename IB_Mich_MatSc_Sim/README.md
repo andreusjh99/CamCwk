@@ -1,4 +1,4 @@
-# CUED Part IB Flood Warning System
+# CUED Part IB Modeling a tension experiment in atomistic detail
 
 This is the Part IB Michaelmas Term computing activity at the Department of Engineering, University of Cambridge.
 

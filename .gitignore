@@ -1,6 +1,7 @@
 # other files
 cwk.txt
 *.xyz
+*.docx
 
 # editor files
 .vscode/
